@@ -28,6 +28,30 @@
     font-weight: bold;
     font-family: 'Dancing Script', cursive;
 }
+.heading{
+    position: absolute;
+    top: 45px;
+    right: 1400px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+}
+.rule-1{
+    position: absolute;
+    top: 105px;
+    right: 1190px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+}
+.rule-2{
+    position: absolute;
+    top: 156px;
+    right: 1178px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive
+}
 #board{
     background: linear-gradient(#72ee72,#e0e043);
    width: 90vmin;
